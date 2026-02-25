@@ -19,6 +19,6 @@
 ```bash
 pkg update -y && pkg install git tmux python termux-api sox -y && \
 pip install requests ntplib pytz urllib3 icmplib colorama && \
-git clone https://github.com/YOURUSERNAME/xiaomi-hyperos-unlock-alarm.git && \
+git clone https://github.com/MrHyperOS/xiaomi-hyperos-unlock-alarm.git && \
 cd xiaomi-hyperos-unlock-alarm && \
 bash start.sh
